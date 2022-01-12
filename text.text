@@ -1,0 +1,5 @@
+1 npm  init -y
+2 npm install nodemon 
+3 type module,
+instalar por versiones
+npm install mongoose@5.9.26
